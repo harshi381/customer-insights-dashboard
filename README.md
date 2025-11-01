@@ -1,4 +1,4 @@
-#Steps involved:-
+# Steps involved:-
 
 ✅ Data Cleaning & Exploration (Python): Cleaned and prepared the raw data, then explored it to find useful patterns and trends.
 
